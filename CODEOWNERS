@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @QuasonCrHBR
+/src/backend/database.py      @QuasonCrHBR
+/src/backend/routers/auth.py  @QuasonCrHBR
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @QuasonCrHBR
